@@ -1,0 +1,11 @@
+
+	* Variables = es una forma de almacenar el valor de algo para usar más tarde.
+    Para crear una variable en JavaScript utilizamos la palabra `var` o 'let', seguida de un espacio y el nombre de la variable (con este nombre podremos hacer referencia a futuro). Además de declarar una variable, le podemos asignar un valor usando el =.
+
+	* Strings =
+
+	* Funciones (argumentos, `return`)= el argumento RETURN se utiliza para DEVOLVER un resultado.
+
+	* Declaraciones `if`= es la forma de crear una funcion en que nos devuelva un valor determinado, si cumple tal o cual condicion respecto a lo que le pidamos que haga en ella.
+
+	* Valores booleanos (`true`, `false`)=
