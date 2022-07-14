@@ -1,0 +1,14 @@
+CONCEPTOS:
+
+* `for`: son bucles que se reproducen continuamente hasta devolvernos lo que buscamos como resultado, o hasta determinado tiempo.
+
+
+
+
+* `&&`, `||`, `!`: estos signos son operadores logicos. 
+    
+    &&: Este operador se le llama AND. Evalua las expresiones y devuelve verdadero si las dos expresiones que comparamos son verdaderas. Si una o las dos expresiones son "falso", este operador devuelve como respuesta FALSO.
+
+    ||: Este operador se le llama OR. Evalua las expresiones y devuelve VERDADERO si una o las dos expresiones que comparamos es verdadera. Solo si las dos expresiones comparadas son falsas, devolvera FALSO.
+
+    !: Este operador se le llama NOT. Este operador devolverá el valor booleano opuesto de lo que se le pasa. Si nosotros poner !false, nos de volvera VERDADERO, o viceversa.
